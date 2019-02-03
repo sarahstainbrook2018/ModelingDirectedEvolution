@@ -1,0 +1,6 @@
+/Users/scw967/Box Sync/Stainbrook Sarah/Tyo Lab/Paper data/BERDI data/My own data/2-0-1 naive/2-0-1 A no IPTG.fcs
+No IPTG
+/Users/scw967/Box Sync/Stainbrook Sarah/Tyo Lab/Paper data/BERDI data/My own data/2-0-1 naive/2-0-1 A IPTG.fcs
+IPTG
+FITC-A
+Naive Library
